@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "246642644555",
+    "firebase_url": "https://money-now-5eddb.firebaseio.com",
+    "project_id": "money-now-5eddb",
+    "storage_bucket": "money-now-5eddb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246642644555:android:c86d810127555cbd689fce",
+        "android_client_info": {
+          "package_name": "com.example.assignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246642644555-bs09feciphfqga3eclpdmhiqrjpi869n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMCQl7D0U48Rw-Tc8_SEqeH6dBV10LKUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246642644555-bs09feciphfqga3eclpdmhiqrjpi869n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246642644555:android:7403523344385ee7689fce",
+        "android_client_info": {
+          "package_name": "com.example.technorizen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246642644555-bs09feciphfqga3eclpdmhiqrjpi869n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMCQl7D0U48Rw-Tc8_SEqeH6dBV10LKUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246642644555-bs09feciphfqga3eclpdmhiqrjpi869n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
